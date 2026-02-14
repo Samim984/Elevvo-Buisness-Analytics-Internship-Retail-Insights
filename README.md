@@ -6,6 +6,8 @@ From Raw Retail Data to Executive Decision Intelligence
 📊 Power BI · Retail Analytics · Business Intelligence · Data Visualization
 
 ---
+⭐ If you find this project useful, feel free to star the repository!
+---
 
 📌 Project Overview
 
@@ -150,10 +152,6 @@ Focus on high-performing regions
 Improve executive decision speed
 
 Shift from static reporting to interactive intelligence
-
----
-
-⭐ If you find this project useful, feel free to star the repository!
 
 ---
 
